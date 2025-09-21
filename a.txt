@@ -5,18 +5,13 @@
 - кефир 
 -мясо
 =попа
-
+ МАКАРОНЫ
 sda
 
 das
-d
-as
-d
-as
-d
-as
-d
-asd
+wq
+wq
+sd
 a
 sd
 f
@@ -28,4 +23,58 @@ d
  as
 d
 
+:wq
+wq
+:wq
+:wg
+wg
+		 
+
+		 \
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+exit
+:exit
+:wq
+:WG
+:wg
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+:wq
+wq
+
+
+
+git status
 
